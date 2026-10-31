@@ -13,7 +13,7 @@ homepage = "https://superfly.github.io/corrosion/"
 
 [workspace.dependencies]
 arc-swap = { version = "1.6.0" }
-antithesis_sdk = { version = "0.2.5", default-features = false }
+antithesis_sdk = { version = "0.3.0", default-features = false }
 assert2 = "0.3.10"
 async-trait = "0.1.68"
 axum = { version = "0.8.4", features = ["http2", "ws", "tracing"] }
