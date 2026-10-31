@@ -7,7 +7,7 @@ homepage.workspace = true
 repository.workspace = true
 
 [dependencies]
-assert_cmd = "2.0.12"
+assert_cmd = "2.2.2"
 corro-tests = { path = "../crates/corro-tests" }
 escargot = "0.5.8"
 spawn = { path = "../crates/spawn" }
